@@ -58,7 +58,7 @@ function greeting( obj ) {
   Sum up the values and return the total number.
 */
 
-//Code Here
+
 
 
 
